@@ -1,5 +1,5 @@
 
-# 🔗 ShortURL - Premium Link Shortener
+# ShortURL - Premium Link Shortener
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -19,7 +19,7 @@ A modern URL shortener built with **Node.js**, **Express**, and **MongoDB**. Fea
 
 ---
 
-## ✨ Features
+## Features
 
 ### Core Functionality
 - **URL Shortening:** Convert long URLs into short, shareable links with custom short IDs
@@ -55,7 +55,7 @@ A modern URL shortener built with **Node.js**, **Express**, and **MongoDB**. Fea
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 ### Backend
@@ -84,7 +84,7 @@ A modern URL shortener built with **Node.js**, **Express**, and **MongoDB**. Fea
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 url-shortener/
@@ -170,7 +170,7 @@ url-shortener/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -245,7 +245,7 @@ npm start
 
 ---
 
-## 🗺️ API Endpoints
+## API Endpoints
 
 ### Authentication Routes
 * `POST /user/` - Register a new user & auto-login
@@ -267,7 +267,7 @@ npm start
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 | Variable | Description | Required |
 |----------|-------------|----------|
@@ -286,7 +286,7 @@ npm start
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 ![Home Page](screenshots/Home.png)
@@ -305,16 +305,6 @@ npm start
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ---
 
 ## 📝 License
@@ -322,22 +312,3 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the LICENCE file for details.
 
 ---
-
-## 👤 Author
-
-**Hitesh**
-
-* GitHub: [@HiteshShonak](https://github.com/HiteshShonak)
-
----
-
-## 🙏 Acknowledgments
-
-* [Chart.js](https://www.chartjs.org/) - Beautiful, responsive charts
-* [Leaflet.js](https://leafletjs.com/) - Interactive maps
-* [Phosphor Icons](https://phosphoricons.com/) - Flexible icon library
-* [ip-api.com](http://ip-api.com/) - IP geolocation API (free, no key required)
-
----
-
-**Note:** This is a personal project built for learning purposes. For production use, additional security measures and optimizations are recommended.
